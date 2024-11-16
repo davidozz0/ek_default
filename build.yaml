@@ -18,6 +18,6 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: nrf52840_m2
     shield: eternal_keypad
     snippet: zmk-usb-logging
