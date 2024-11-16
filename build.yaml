@@ -18,6 +18,5 @@
 #
 ---
 include:
-  - board: nrf52840_m2
-    shield: eternal_keypad
-    snippet: zmk-usb-logging
+  - board: nice_nano_v2
+    shield: eternal_keypad_lefty
