@@ -21,4 +21,3 @@ include:
   - board: nice_nano_v2
     shield: eternal_keypad_lefty
     snippet: zmk-usb-logging
-    cmake-args: -DSHIELD=settings_reset
